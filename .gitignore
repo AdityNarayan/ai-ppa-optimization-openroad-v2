@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.backup
+*.log
+*.db
+.optimizer.pid
+trial_history_INVALID_caching_bug.jsonl
+original_15_trials.jsonl
+.streamlit/
+venv/
+*.egg-info/
